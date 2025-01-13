@@ -168,19 +168,3 @@ Los embeddings son representaciones vectoriales de textos que capturan su signif
 2. **Vectorización**: El texto pasa por un modelo de embeddings que genera su representación vectorial.
 3. **Almacenamiento**: El vector se almacena junto con el texto original en la base de datos.
 4. **Consulta**: Las consultas también se vectorizan, y se comparan con los vectores almacenados utilizando métricas de similitud como la distancia coseno.
-
----
-
-## Ejemplos prácticos
-
-### Agregar documento
-![Agregar Documento](images/add_document.png)
-
-### Consultar documentos
-![Consultar Documentos](images/query_documents.png)
-
-### Actualizar documento
-![Actualizar Documento](images/update_document.png)
-
-### Eliminar documento
-![Eliminar Documento](images/delete_document.png)
