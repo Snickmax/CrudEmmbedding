@@ -1,6 +1,8 @@
 
 # Operaciones CRUD con ChromaDB y Embeddings
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Snickmax/CrudEmmbedding/blob/main/CrudEmbedding.ipynb)
+
 Este proyecto muestra cómo configurar una base de datos vectorial utilizando ChromaDB con embeddings generados por modelos de lenguaje. A continuación, se detalla cómo instalar, configurar y realizar operaciones CRUD, junto con ejemplos prácticos detallados.
 
 ---
